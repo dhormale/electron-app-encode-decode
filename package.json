@@ -1,0 +1,20 @@
+{
+  "name": "Base-64-Encode-Decode",
+  "version": "1.0.0",
+  "description": "Electron - Base 64 Encode / Decode",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "Base 64 Encode / Decode",
+    "start",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.7.8"
+  }
+}
